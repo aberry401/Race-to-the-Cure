@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4c2cb1e5cf48bc243a0cb41c2b29cf96
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnPoint: {fileID: 398222679691861904, guid: e7f6a5325f23b7a429688a53fd5d08df,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

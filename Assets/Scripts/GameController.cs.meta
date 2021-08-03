@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 61bc72cf361519e4db94ac5dd23394f0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ScoreText: {instanceID: 0}
+  - FinalScoreText: {instanceID: 0}
+  - player: {instanceID: 0}
+  - toStop: {instanceID: 0}
+  - ball: {instanceID: 0}
+  - orb: {fileID: 4678664432998295874, guid: 9ea47c245c6fbd2419f4b772e8ad0e56, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
